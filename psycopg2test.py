@@ -2,8 +2,8 @@ import psycopg2
 
 DB_PARAMS = {
     "dbname": "sample",
-    "user": "postgres",
-    "password": "12345",
+    "user": "db_user",
+    "password": "db_password",
     "host": "localhost",
     "port": "5433"
 }
